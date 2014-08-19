@@ -1,0 +1,12 @@
+Source: python-phabricator
+Section: unknown
+Priority: extra
+Maintainer: Chase Pettet <cpettet@wikimedia.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/disqus/python-phabricator
+
+Package: python-phabricator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: python client lib for phabricator api

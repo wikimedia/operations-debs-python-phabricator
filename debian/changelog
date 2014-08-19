@@ -1,0 +1,5 @@
+python-phabricator (0.4.0-1) main; distribution=trusty-wikimedia urgency=low
+
+    * Initial release of python-phabricator
+
+ -- Chase Pettet <cpettet@wikimedia.org>  Tue, 19 Aug 2014 13:27:21 -0500
